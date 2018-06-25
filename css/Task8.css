@@ -256,7 +256,7 @@ span.texttt{
 	left:80px;
 
 }
-@media screen and (max-width:1200px ) {
+@media screen and (max-width:780px ) {
 	.mid_mid{
 		left: 0;
 		width: 100%;
@@ -371,7 +371,7 @@ img.sow1{
 	text-align: center;
 	
 }
-@media only screen and (max-width:1200px ) {
+@media only screen and (max-width:767px ) {
 .coo_block{
 	display: block;
 	width: 50%;
@@ -465,9 +465,9 @@ span.ll{
 	padding-top: 35px;
 }
 
-@media only screen and (min-width:1200px) {
+@media only screen and (min-width:700px) {
 .lastB{
-	height:160px;
+	height:200px;
 }
 .col-sm-5 a{
 	color: white;
